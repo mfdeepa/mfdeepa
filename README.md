@@ -1,7 +1,7 @@
 # Hi there, I'm Deepa! 👋
 
 ## Backend Software Developer | Data Analyst
-<img align='right' src="https://giphy.com/gifs/programmer-p4NLw3I4U0idi" width="230">
+<img align='right' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmtpa2ZsanJwYXVjeWl5andxbnlkZzJkb2Jjd3lxaGZtMGx3OWVmdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/p4NLw3I4U0idi/giphy.gif" width="230">
 
 </em></p>
 
